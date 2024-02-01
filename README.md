@@ -1,4 +1,4 @@
-# deeplofgic_Assignment
+# deeplogic_Assignment
 API creation 
 
 Steps to Run the file 
